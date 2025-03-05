@@ -1,2 +1,2 @@
 # OrderCheck-Java
-Prints true if the four integer inputs are in strictly ascending or descending order, false otherwise in Java
+A simple Java program that takes four integer inputs and prints true if the numbers are in strictly **ascending or descending order**, and false otherwise. This project demonstrates basic command-line argument handling, conditional logic, and type conversion in Java.
